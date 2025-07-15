@@ -39,12 +39,14 @@ CPI (Consumer Price Index) measures the average change over time in prices paid 
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/inflation-visualizer.git
-cd inflation-visualizer
-pip install -r requirements.txt
-streamlit run app.py
 
----
+git clone https://github.com/your-username/inflation-visualizer.git
+
+cd inflation-visualizer
+
+pip install -r requirements.txt
+
+streamlit run app.py
 
 
 
