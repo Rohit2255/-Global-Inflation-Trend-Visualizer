@@ -14,14 +14,6 @@ An interactive Streamlit web app to explore **Consumer Price Index (CPI)** trend
 
 ---
 
-## 📊 Sample Visuals
-
-| Country Trend | Global CPI Ranking | BRICS/G7 Comparison |
-|---------------|--------------------|----------------------|
-| ![Trend](./assets/cpi_trend.png) | ![Ranking](./assets/cpi_ranking.png) | ![Group](./assets/group_compare.png) |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: Streamlit
